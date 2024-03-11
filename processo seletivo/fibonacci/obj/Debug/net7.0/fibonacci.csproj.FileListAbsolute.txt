@@ -1,0 +1,14 @@
+C:\Users\gabriel\Desktop\processo seletivo\fibonacci\bin\Debug\net7.0\fibonacci.exe
+C:\Users\gabriel\Desktop\processo seletivo\fibonacci\bin\Debug\net7.0\fibonacci.deps.json
+C:\Users\gabriel\Desktop\processo seletivo\fibonacci\bin\Debug\net7.0\fibonacci.runtimeconfig.json
+C:\Users\gabriel\Desktop\processo seletivo\fibonacci\bin\Debug\net7.0\fibonacci.dll
+C:\Users\gabriel\Desktop\processo seletivo\fibonacci\bin\Debug\net7.0\fibonacci.pdb
+C:\Users\gabriel\Desktop\processo seletivo\fibonacci\obj\Debug\net7.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\processo seletivo\fibonacci\obj\Debug\net7.0\fibonacci.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\processo seletivo\fibonacci\obj\Debug\net7.0\fibonacci.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\processo seletivo\fibonacci\obj\Debug\net7.0\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\processo seletivo\fibonacci\obj\Debug\net7.0\fibonacci.dll
+C:\Users\gabriel\Desktop\processo seletivo\fibonacci\obj\Debug\net7.0\refint\fibonacci.dll
+C:\Users\gabriel\Desktop\processo seletivo\fibonacci\obj\Debug\net7.0\fibonacci.pdb
+C:\Users\gabriel\Desktop\processo seletivo\fibonacci\obj\Debug\net7.0\fibonacci.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\processo seletivo\fibonacci\obj\Debug\net7.0\ref\fibonacci.dll
